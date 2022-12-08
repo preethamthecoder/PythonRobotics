@@ -8,7 +8,7 @@ from matplotlib import pyplot as plt
 import matplotlib.patches as pat
 from mpl_toolkits.mplot3d import Axes3D
 import mpl_toolkits.mplot3d.art3d as art3d
-
+##comments added
 
 class BipedalPlanner(object):
     def __init__(self):
